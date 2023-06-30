@@ -1,3 +1,4 @@
 count()	Returns the number of times a specified value occurs in a tuple
 
 hi ia ma good
+h r yyy
